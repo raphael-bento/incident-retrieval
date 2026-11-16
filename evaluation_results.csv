@@ -1,0 +1,5 @@
+,Hit@1,Hit@5,MRR,Hit@5 (macro)
+Random,0.07,0.29,0.19,
+TF-IDF words,0.81,0.93,0.87,0.89
+TF-IDF characters,0.79,0.93,0.85,0.91
+Hybrid (words + chars),0.79,0.93,0.86,0.89

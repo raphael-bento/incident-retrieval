@@ -1,0 +1,6 @@
+,TF-IDF words,TF-IDF characters,Hybrid
+Original query,0.93,0.93,0.93
+Typos,0.93,0.92,0.93
+Abbreviations,0.93,0.93,0.93
+Truncated description (6 words),0.77,0.84,0.84
+Description only (no zone or category),0.93,0.91,0.93

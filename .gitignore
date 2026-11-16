@@ -1,0 +1,5 @@
+data/
+config.local.json
+*.xlsm
+*.xlsx
+__pycache__/

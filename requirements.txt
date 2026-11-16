@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+openpyxl
+# Optional, for the "embeddings" method:
+# sentence-transformers
